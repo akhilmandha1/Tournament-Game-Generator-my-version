@@ -1,5 +1,5 @@
 # Tournament Game Generator my version
- my personal project
+ My Personal Project
 
 
 For this project, I’ll be creating a program that schedules the games teams will play in the first round of an end-of-year tournament.
